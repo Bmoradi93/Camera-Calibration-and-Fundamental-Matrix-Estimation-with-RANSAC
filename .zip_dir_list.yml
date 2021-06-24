@@ -1,0 +1,7 @@
+required_directories:
+  - code
+  - html
+required_files:
+  - README.txt
+optional_directories:
+  - additional_data
